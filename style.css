@@ -280,7 +280,7 @@ nav ul li:hover{
     
 }
 
-@media (max-width:500px){
+@media (max-width:460px){
     .hero{
         flex-direction: column;
         gap: 60px;
